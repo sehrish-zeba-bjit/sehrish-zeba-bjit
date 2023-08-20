@@ -1,7 +1,6 @@
 <h1 align="center">Hi There, I'm Sehrish Zeba</h1>
 <h3 align="center">A self motivated Trainee SQA Engineer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sehrish-zeba-bjit&label=Profile%20views&color=0e75b6&style=flat" alt="sehrish-zeba-bjit" /> </p>
 
 - 🔭 I’m currently working on **Manual Testing**
 
