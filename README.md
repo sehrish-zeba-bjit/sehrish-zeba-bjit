@@ -26,4 +26,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sehrish-zeba-bjit" alt="sehrish-zeba-bjit" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehrish-zeba-bjit&show_icons=true&locale=en&layout=compact" alt="sehrish-zeba-bjit" /></p>
+
