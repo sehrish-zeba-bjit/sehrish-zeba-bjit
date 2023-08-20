@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/D4D12AQGv-DPt8dOQEw/article-cover_image-shrink_720_1280/0/1689195252409?e=2147483647&v=beta&t=j7_AKpy0GbM5ATS3Juj3tBr7z3MfEsW-dd_YmYNt9K0))](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/D4D12AQGv-DPt8dOQEw/article-cover_image-shrink_720_1280/0/1689195252409?e=2147483647&v=beta&t=j7_AKpy0GbM5ATS3Juj3tBr7z3MfEsW-dd_YmYNt9K0))]
 <h1 align="center">Hi There, I'm Sehrish Zeba</h1>
 <h3 align="center">A self motivated Trainee SQA Engineer from Bangladesh.</h3>
-
+<img align="right" alt="Coding" width="400"  src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/133766843/original/c0da5c2cc6f73f767f23bad25b1825b3b0da2842/expert-sqa-engineer-to-test-apps.png">
 - 🔭 I’m currently working on **Manual Testing**
 
 - 🌱 I’m currently learning **Software Testing Materials**
