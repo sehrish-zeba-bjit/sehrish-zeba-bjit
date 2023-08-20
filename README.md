@@ -1,6 +1,7 @@
 <h1 align="center">Hi There, I'm Sehrish Zeba</h1>
 <h3 align="center">A self motivated Trainee SQA Engineer from Bangladesh.</h3>
 
+(https://github.com/sehrish-zeba-bjit/sehrish-zeba-banner)
 
 - 🔭 I’m currently working on **Manual Testing**
 
