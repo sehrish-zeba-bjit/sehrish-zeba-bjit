@@ -1,7 +1,7 @@
 <h1 align="center">Hi There, I'm Sehrish Zeba</h1>
 <h3 align="center">A self motivated Trainee SQA Engineer from Bangladesh.</h3>
 
-(([link]([http://example.com](https://www.google.com/search?sca_esv=558560939&sxsrf=AB5stBh4f3K0wJ9jsQq3ouPZY4YqMoLtyA:1692540629747&q=sqa+engineer&tbm=isch&source=lnms&sa=X&ved=2ahUKEwisz4OYteuAAxVo-TgGHWBcDYoQ0pQJegQIDBAB&biw=1366&bih=651&dpr=1#imgrc=I8Xjvcgx-dnwkM)))
+[![MasterHead](https://media.licdn.com/dms/image/D4D12AQGv-DPt8dOQEw/article-cover_image-shrink_720_1280/0/1689195252409?e=2147483647&v=beta&t=j7_AKpy0GbM5ATS3Juj3tBr7z3MfEsW-dd_YmYNt9K0)]
 
 - 🔭 I’m currently working on **Manual Testing**
 
